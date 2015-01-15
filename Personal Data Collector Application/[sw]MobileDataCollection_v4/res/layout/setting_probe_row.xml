@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+	 android:focusable="false"
+	 android:focusableInTouchMode="false"
+	 >
+    	<LinearLayout
+		android:orientation="vertical"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		 android:focusable="false"
+		 android:focusableInTouchMode="false"
+	>
+	
+		<TextView
+			android:id="@+id/tvProbeName"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"			
+			android:textSize="17sp"
+			android:textColor="#FFFFFF"
+			 android:focusable="false"
+			 android:focusableInTouchMode="false"
+			android:layout_marginBottom="10dp">
+		    
+		</TextView>
+		<TextView
+			android:id="@+id/tvProbeSettingValue"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			 android:focusable="false"		
+			android:textSize="15sp"
+			android:textColor="#FFFFFF"	
+			 android:focusableInTouchMode="false"
+			 android:layout_marginBottom="5dp"
+		/>
+	</LinearLayout>
+    
+</LinearLayout>
