@@ -1,3 +1,5 @@
+*update : watch video about project explanation => http://www.youtube.com/watch?v=9XBLJf23EJk&feature=youtu.be
+
 I join to ITRC research member when I was in second semester, February 2014. 
 
 ITRC asked us to submit our applications which was used in our research. 
